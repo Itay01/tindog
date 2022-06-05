@@ -115,7 +115,7 @@ p {
 }
 
 @media (max-width: 1028px) {
-  #title .row{
+  #title .container-fluid{
     text-align: center;
   }
 
